@@ -1,7 +1,7 @@
 @echo off
 rem Set following to higher value if you want more memory:
 rem You need 64 bit OS and 64 bit java to set it to higher values
-set MEMORY=1024m
+set MEMORY=5000m
 
 rem Hide VLC error output
 set VLC_VERBOSE=-1
